@@ -1,4 +1,4 @@
-## Cartoon Collections
+jpg
 
 ## Objectives
 
