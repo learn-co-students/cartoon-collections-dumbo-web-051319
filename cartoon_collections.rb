@@ -11,8 +11,10 @@ end
 
 
 def long_planeteer_calls(planeteer_calls)
-  planeteer_calls.any? do |calls| call.length < 4
+  planeteer_calls.any? { |call| call.length > 4 }
+  #ask in class why I wouldnt add the do 
 end
+
 
 def find_the_cheese# code an argument here
   # the array below is here to help
